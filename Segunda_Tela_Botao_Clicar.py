@@ -1,4 +1,4 @@
-from tkinter import*
+from tkinter import *
 
 #Criando uma função para clique no botão
 def bt_click():
